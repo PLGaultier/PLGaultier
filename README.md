@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pierre-Louis Gaultier
 - 👀 I’m interested in robotics and new technologies 
 - I am studying at ETH Zurich
-- 🌱 I’m currently looking for an internship in September
 - 📫 How to reach me : pierrelouis.gltr@gmail.com
 
 <!---
